@@ -1,0 +1,1 @@
+/Users/user/Documents/Solana-Developer-Bootcamp/voting-dapp/voting/target/sbpf-solana-solana/release/voting.so: /Users/user/Documents/Solana-Developer-Bootcamp/voting-dapp/voting/programs/voting/src/lib.rs

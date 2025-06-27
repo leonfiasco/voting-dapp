@@ -1,0 +1,11 @@
+/Users/user/Documents/Solana-Developer-Bootcamp/voting-dapp/voting/target/debug/deps/thiserror-a9083e47527313d3.d: /Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/lib.rs /Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/aserror.rs /Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/display.rs /Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/provide.rs /Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/var.rs
+
+/Users/user/Documents/Solana-Developer-Bootcamp/voting-dapp/voting/target/debug/deps/libthiserror-a9083e47527313d3.rlib: /Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/lib.rs /Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/aserror.rs /Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/display.rs /Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/provide.rs /Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/var.rs
+
+/Users/user/Documents/Solana-Developer-Bootcamp/voting-dapp/voting/target/debug/deps/libthiserror-a9083e47527313d3.rmeta: /Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/lib.rs /Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/aserror.rs /Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/display.rs /Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/provide.rs /Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/var.rs
+
+/Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/lib.rs:
+/Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/aserror.rs:
+/Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/display.rs:
+/Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/provide.rs:
+/Users/user/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.12/src/var.rs:

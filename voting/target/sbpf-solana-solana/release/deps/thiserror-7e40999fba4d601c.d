@@ -1,0 +1,11 @@
+/Users/user/Documents/Solana-Developer-Bootcamp/voting-dapp/voting/target/sbpf-solana-solana/release/deps/libthiserror-7e40999fba4d601c.rmeta: /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.12/src/lib.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.12/src/aserror.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.12/src/display.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.12/src/provide.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.12/src/var.rs
+
+/Users/user/Documents/Solana-Developer-Bootcamp/voting-dapp/voting/target/sbpf-solana-solana/release/deps/libthiserror-7e40999fba4d601c.rlib: /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.12/src/lib.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.12/src/aserror.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.12/src/display.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.12/src/provide.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.12/src/var.rs
+
+/Users/user/Documents/Solana-Developer-Bootcamp/voting-dapp/voting/target/sbpf-solana-solana/release/deps/thiserror-7e40999fba4d601c.d: /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.12/src/lib.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.12/src/aserror.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.12/src/display.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.12/src/provide.rs /Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.12/src/var.rs
+
+/Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.12/src/lib.rs:
+/Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.12/src/aserror.rs:
+/Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.12/src/display.rs:
+/Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.12/src/provide.rs:
+/Users/user/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-2.0.12/src/var.rs:

@@ -1,30 +1,23 @@
 import * as anchor from '@coral-xyz/anchor'
 import { Program } from '@coral-xyz/anchor'
 import { Voting } from '../target/types/voting'
-import { Keypair, PublicKey } from '@solana/web3.js'
-import { startAnchor } from 'solana-bankrun'
-import { BankrunProvider } from 'anchor-bankrun'
+import { PublicKey } from '@solana/web3.js'
 import { expect } from 'chai'
 
 const IDL = require('../target/idl/voting.json')
 
-const votingAddress = new PublicKey('GDa34CGC2H82X9iJjLNzzLdyMbmPGkKiLt9Ejzzffx6F')
+const votingAddress = new PublicKey('4Aw9ASTR77nuhmPksVPB9xUr6YgpuQhiYe71EsaHrW89')
 
 describe('voting', () => {
-  // Configure the client to use the local cluster.
-  // anchor.setProvider(anchor.AnchorProvider.env())
-
-  // const program = anchor.workspace.Voting as Program<Voting>
-
   let context
   let provider
-  let votingProgram
+  anchor.setProvider(anchor.AnchorProvider.env())
+  let votingProgram = anchor.workspace.Voting as Program<Voting>
 
   before(async () => {
-    context = await startAnchor('', [{ name: 'voting', programId: votingAddress }], [])
-    provider = new BankrunProvider(context)
-
-    votingProgram = new Program<Voting>(IDL, provider)
+    // context = await startAnchor('', [{ name: 'voting', programId: votingAddress }], [])
+    // provider = new BankrunProvider(context)
+    // votingProgram = new Program<Voting>(IDL, provider)
   })
 
   it('Poll is initialised!', async () => {
